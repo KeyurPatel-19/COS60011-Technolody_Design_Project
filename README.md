@@ -1,5 +1,5 @@
-# COS60011-Technolody_Design_Project
-# COS60011_TDP – Cardiovascular Disease Informatics Dashboard
+
+# COS60011-Technolody_Design_Project – Cardiovascular Disease Informatics Dashboard
 
 Welcome to the repository for our COS60011 TDP Group Project.  
 This project explores cardiovascular disease (CVD) trends in Australia by integrating public health datasets, machine learning models, and interactive data visualizations.
